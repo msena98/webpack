@@ -1,0 +1,23 @@
+{
+  "name": "curso-webpack",
+  "version": "1.0.0",
+  "description": "Curso de Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msena98/webpack.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Matheus Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msena98/webpack/issues"
+  },
+  "homepage": "https://github.com/msena98/webpack#readme"
+}
